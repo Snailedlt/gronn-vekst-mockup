@@ -1,0 +1,141 @@
+.header {
+  background-color: #ffffff;
+  height: 136px;
+  position: relative;
+  width: 1440px;
+}
+
+.header .div {
+  align-items: center;
+  display: inline-flex;
+  gap: 23px;
+  height: 36px;
+  justify-content: flex-end;
+  left: 1013px;
+  position: absolute;
+  top: 76px;
+}
+
+.header .text-wrapper {
+  color: var(--m-rk-gr-nn);
+  font-family: var(--16-reg-font-family);
+  font-size: var(--16-reg-font-size);
+  font-style: var(--16-reg-font-style);
+  font-weight: var(--16-reg-font-weight);
+  letter-spacing: var(--16-reg-letter-spacing);
+  line-height: var(--16-reg-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .text-wrapper-2 {
+  color: var(--m-rk-gr-nn);
+  font-family: var(--16-reg-font-family);
+  font-size: var(--16-reg-font-size);
+  font-style: var(--16-reg-font-style);
+  font-weight: var(--16-reg-font-weight);
+  letter-spacing: var(--16-reg-letter-spacing);
+  line-height: var(--16-reg-line-height);
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .image {
+  height: 65px;
+  left: 76px;
+  position: absolute;
+  top: 43px;
+  width: 159px;
+}
+
+.header .frame-2 {
+  align-items: center;
+  display: inline-flex;
+  gap: 30px;
+  justify-content: flex-end;
+  left: 634px;
+  position: absolute;
+  top: 11px;
+}
+
+.header .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.header .design-component-instance-node {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.header .sandvikslandet {
+  color: var(--m-rk-gr-nn-m-rk);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 25.6px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .text-wrapper-3 {
+  color: var(--m-rk-gr-nn-m-rk);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.header .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.header .group {
+  background-color: #f3f7f5;
+  border-radius: 4px;
+  height: 36px;
+  position: relative;
+  width: 154px;
+}
+
+.header .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  left: 13px;
+  position: relative;
+  top: 5px;
+}
+
+.header .handlekurv {
+  color: var(--m-rk-gr-nn-m-rk);
+  font-family: var(--14-bold-font-family);
+  font-size: var(--14-bold-font-size);
+  font-style: var(--14-bold-font-style);
+  font-weight: var(--14-bold-font-weight);
+  letter-spacing: var(--14-bold-letter-spacing);
+  line-height: var(--14-bold-line-height);
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}

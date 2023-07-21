@@ -1,0 +1,1 @@
+export { Lastebil } from "./Lastebil";

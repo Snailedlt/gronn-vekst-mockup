@@ -1,0 +1,248 @@
+.component {
+  background-color: #f3f7f5;
+  border-radius: 3px;
+  box-shadow: 0px 0px 6px 2px #0000000d;
+  height: 420px;
+  left: -1px;
+  position: relative;
+  width: 322px;
+}
+
+.component .class {
+  display: flex !important;
+  height: 50px !important;
+  left: 19px !important;
+  position: absolute !important;
+  top: 352px !important;
+  width: 282px !important;
+}
+
+.component .class-2 {
+  display: flex !important;
+  height: 50px !important;
+  left: 19px !important;
+  position: absolute !important;
+  top: 351px !important;
+  width: 282px !important;
+}
+
+.component .img {
+  height: 179px;
+  left: -1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 322px;
+}
+
+.component .torvfri-jord-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 11px;
+  left: 19px;
+  position: absolute;
+  top: 218px;
+}
+
+.component .torvfri-jord {
+  color: #000000;
+  font-family: var(--16-semibold-font-family);
+  font-size: var(--16-semibold-font-size);
+  font-style: var(--16-semibold-font-style);
+  font-weight: var(--16-semibold-font-weight);
+  letter-spacing: var(--16-semibold-letter-spacing);
+  line-height: var(--16-semibold-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component .park-mix {
+  color: #000000;
+  font-family: var(--16-reg-font-family);
+  font-size: var(--16-reg-font-size);
+  font-style: var(--16-reg-font-style);
+  font-weight: var(--16-reg-font-weight);
+  height: 26px;
+  left: 110px;
+  letter-spacing: var(--16-reg-letter-spacing);
+  line-height: var(--16-reg-line-height);
+  position: absolute;
+  text-align: center;
+  top: 217px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.component .bigbag-liter {
+  color: #00481d;
+  font-family: var(--14-med-caps-font-family);
+  font-size: var(--14-med-caps-font-size);
+  font-style: var(--14-med-caps-font-style);
+  font-weight: var(--14-med-caps-font-weight);
+  height: 19px;
+  left: 19px;
+  letter-spacing: var(--14-med-caps-letter-spacing);
+  line-height: var(--14-med-caps-line-height);
+  position: absolute;
+  top: 188px;
+  white-space: nowrap;
+  width: 282px;
+}
+
+.component .n-ringsrik-jord-til {
+  color: #000000;
+  font-family: var(--14-reg-font-family);
+  font-size: var(--14-reg-font-size);
+  font-style: var(--14-reg-font-style);
+  font-weight: var(--14-reg-font-weight);
+  height: 44px;
+  left: 19px;
+  letter-spacing: var(--14-reg-letter-spacing);
+  line-height: var(--14-reg-line-height);
+  position: absolute;
+  top: 250px;
+  width: 272px;
+}
+
+.component .mengde-velger {
+  height: 26px;
+  left: 19px;
+  position: absolute;
+  width: 122px;
+}
+
+.component .overlap-group-2 {
+  height: 26px;
+  position: relative;
+  width: 120px;
+}
+
+.component .rectangle {
+  background-color: var(--bakgrunn);
+  border: 1px solid;
+  border-color: var(--m-rk-gr-nn-m-rk);
+  border-radius: 30px;
+  height: 26px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 54px;
+}
+
+.component .instance-node {
+  left: 96px !important;
+  top: 1px !important;
+}
+
+.component .element {
+  color: #000000;
+  font-family: var(--16-reg-font-family);
+  font-size: var(--16-reg-font-size);
+  font-style: var(--16-reg-font-style);
+  font-weight: var(--16-reg-font-weight);
+  height: 26px;
+  left: 10px;
+  letter-spacing: var(--16-reg-letter-spacing);
+  line-height: var(--16-reg-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.component .element-stk {
+  color: #000000b2;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 19px;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: right;
+  top: 318px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.component .p {
+  color: #000000;
+  font-family: var(--14-reg-font-family);
+  font-size: var(--14-reg-font-size);
+  font-style: var(--14-reg-font-style);
+  font-weight: var(--14-reg-font-weight);
+  height: 44px;
+  left: 19px;
+  letter-spacing: var(--14-reg-letter-spacing);
+  line-height: var(--14-reg-line-height);
+  position: absolute;
+  top: 250px;
+  width: 277px;
+}
+
+.component .element-stk-2 {
+  color: #000000b2;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 26px;
+  left: 165px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: right;
+  top: 314px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.component .park-mix-2 {
+  color: #000000;
+  font-family: var(--16-reg-font-family);
+  font-size: var(--16-reg-font-size);
+  font-style: var(--16-reg-font-style);
+  font-weight: var(--16-reg-font-weight);
+  height: 26px;
+  left: 109px;
+  letter-spacing: var(--16-reg-letter-spacing);
+  line-height: var(--16-reg-line-height);
+  position: absolute;
+  text-align: center;
+  top: 217px;
+  white-space: nowrap;
+  width: 84px;
+}
+
+.component .bigbag-liter-2 {
+  color: #00481d;
+  font-family: var(--14-med-caps-font-family);
+  font-size: var(--14-med-caps-font-size);
+  font-style: var(--14-med-caps-font-style);
+  font-weight: var(--14-med-caps-font-weight);
+  height: 19px;
+  left: 19px;
+  letter-spacing: var(--14-med-caps-letter-spacing);
+  line-height: var(--14-med-caps-line-height);
+  position: absolute;
+  top: 188px;
+  white-space: nowrap;
+  width: 287px;
+}
+
+.component .shopping-cart-fill {
+  left: unset !important;
+  position: relative !important;
+  top: unset !important;
+}
+
+.component .state-0-ingen-adresse {
+  top: 315px;
+}
+
+.component .state-0-default {
+  top: 316px;
+}

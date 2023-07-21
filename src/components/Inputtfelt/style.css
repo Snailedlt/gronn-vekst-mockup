@@ -1,0 +1,29 @@
+.inputtfelt {
+  background-color: var(--profil-hvit);
+  border-radius: 6px;
+  height: 46px;
+  width: 150px;
+}
+
+.inputtfelt .overlap-group {
+  border: 1px solid;
+  border-color: #002a11;
+  border-radius: 4px;
+  height: 46px;
+  position: relative;
+}
+
+.inputtfelt .adresse {
+  color: #00000080;
+  font-family: var(--16-reg-font-family);
+  font-size: var(--16-reg-font-size);
+  font-style: var(--16-reg-font-style);
+  font-weight: var(--16-reg-font-weight);
+  height: 26px;
+  left: 17px;
+  letter-spacing: var(--16-reg-letter-spacing);
+  line-height: var(--16-reg-line-height);
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
